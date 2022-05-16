@@ -1,0 +1,88 @@
+						  TERM 1
+						PROJECT 1
+				  ***FINDING LANE LINES***
+
+WHY it is important ?
+
+-> If one can't find the lane markings,Car would have no clue where to drive.
+One may don't pay much attention to them, but as a self-driving car engineer,
+it is the best friend. They tells a lot to where to drive.
+
+
+						PROJECT 2
+				  ***BEHAVIORAL CLONING***
+
+Cloning means that our learning problem will copy and clone
+human behaviour so does our steering actions and breaking gas acitons.
+	
+	When we train people,we dont't train them by giving them rules,	
+	we train them by letting them learn form examples.
+	Thus I am going to apply neural networks, deep learning to 
+	camera images and do some of the very things
+	a self-driving car ought to do right.
+
+
+						PROJECT 3
+			      ADVANCED LANE FINDING
+				    AND VEHICLE DETECTION
+
+what is compute vision, when you or i drive a car we use our eyes more than
+any other organ to understand what to do.
+
+COMPUTER VISION, this has the same capability into computers, uses cameras and
+we learn how to extract things like #lane marking and other vehicles out of camera images.
+
+		
+						TERM 2
+				SENSOR FUSION, LOCALZATION
+						AND CONTROL
+
+					PROJECT 4
+				***SENSOR FUSION***
+
+Science to intergrate different types of sensors. Self driving car have things 
+like lidars and they radars and also cameras. And they have internal sensors called
+gyroscopes inertial measurement units.
+
+It is a science how to come up with single coherent picture based on these different modalities.
+
+
+					PROJECT 5
+				***LOCALIZATION***
+
+Where, relative to the road is a car?
+
+why it is important ? -  Because as we are going to see, we will have build maps 
+of the environment.They have lots of detailed information. Some of which might even 
+be invisible to the robot like, where are the danger zones, where do pedestrains 
+typically cross. And to make sense of those maps, the world must know where is right
+for the map. And, the alignment of the sensor data the current position to a map, 
+that's what is called localization.
+
+
+					PROJECT 6
+				***CONTROLLERS***
+
+-> A computer programs that steers your wheels, your gas pedal, so as to meet a given objective.
+ 
+So for example, if the objective is to stay centered in the road, and you start driving and
+your car veersto the left. Controller is the unit that decides the decision(okay).We compensate
+with a slight right turn of the steering wheel. That might sound trivial but it's really easy to screw it up.
+
+
+							TERM 3
+				*** PATH PLANNING & CONTROLLING 
+						A REAL SELF-DRIVING CAR! ***
+
+					PROJECT 7
+				***PATH PLANNING***
+
+Science of how to find a valid sequence of steps or actions in a maze.
+A sequence of streets you want to go down to make it all the way to the end.
+A Path Planning Algorithm is an algortihm that finds that sequence of acitons for you.
+We will apply it to city navigation and parking navigation , eg for crossing a parking lot.
+
+
+					PROJECT 8
+				***CODE IN PHYSICAL CAR***
+

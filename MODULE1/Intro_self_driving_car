@@ -1,0 +1,17 @@
+													****SELF-DRIVING-CAR*****
+
+self driving car engineers uses two distinct approaches to autonomous development.
+
+1. ROBOTICS APPROACH
+2. DEEP LEARNING APPROACH
+
+	1. ROBOTIC APPROACH fuses output from a suite of sensors to directly measure the vehicle surrounding and then navigate accordingly.
+
+			~ self driving car engineers have been working on and perfecting the robotics approach for many years.
+
+		More recently, Engineering teams have begun to use deep learning as a different approach for developing autonomous vehicles.
+
+	2. DEEP LEARNING APPROACH allows self-driving cars to learn how to drive, by mimicking human driving behaviour.
+
+Both, the robotics and deep learning methods, are actively being pursued today in the development of self-driving cars.
+
